@@ -35,4 +35,5 @@ System Requirements
 Operation System: Windows, Linux and Mac OS.
 
 Citation
-Meimei Liang, Futao Zhang, Gulei Jin and Jun Zhu* (2014) FastGCN: A GPU Accelerated Tool for Fast Gene Co-expression Networks. (Submitted)
+
+[Liang, M., Zhang, F., Jin, G., & Zhu, J. (2015). FastGCN: A GPU Accelerated Tool for Fast Gene Co-Expression Networks. PLoS ONE, 10(1), e0116776. doi:10.1371/journal.pone.0116776](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0116776)
